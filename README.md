@@ -34,6 +34,21 @@ Explores the adoption of AI technologies and developer tools, including RAG, AI 
 
 Analyzes repository popularity, stars, forks, growth indicators, and project maintenance health.
 
+🖼️ Dashboard Previews
+
+1. AI Ecosystem Overview
+
+[AI Ecosystem Overview](screenshots/dashboard_1.png)
+
+2. AI Technology & Developer Tools
+
+[AI Technology & Developer Tools](screenshots/dashboard_2.png)
+
+3. Popularity, Growth & Project Health
+
+[Popularity, Growth & Project Health](screenshots/dashboard_3.png)
+
+
 💡 Skills Demonstrated
 
 * Data Cleaning and Transformation
